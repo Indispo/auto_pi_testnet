@@ -2,7 +2,7 @@
 
 I/ Paste your access token
 
-	you can find it here ----> Win+R --> %appdata% --> Ctrl+F --> token
+	you can find it here ----> Win+R --> %appdata% --> Pinetwork/localStorage/leveldb/0000003.log ----> Ctrl+F --> token
 
 
 II/ Paste your private key
