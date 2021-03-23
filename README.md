@@ -30,4 +30,4 @@ III/ Paste your ChromeDriver path
 
 IV/ Paste your browser path
 	
-	right click on googlechrome on your destop --> property --> target is your path
+	right click on Google Chrome or Brave on your destop --> property --> target/chrome.exe(or brave.exe) is your path 
