@@ -25,7 +25,7 @@ III/ Paste your ChromeDriver path
 
 			Paste on desktop your chromedriver
 			
-				path:  C:/Users/[-USERNAME]/Desktop/chromedriver.exe
+				Chromedriver path:  C:/Users/[-USERNAME]/Desktop/chromedriver.exe
 
 
 IV/ Paste your browser path
